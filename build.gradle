@@ -4,8 +4,8 @@ apply plugin: 'eclipse-wtp'
 version = '1.0'
 
 // Uses JDK 7
-sourceCompatibility = 1.7
-targetCompatibility = 1.7
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 // Get dependencies from Maven central repository
 repositories {
